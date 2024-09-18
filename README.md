@@ -1,4 +1,5 @@
-## Hi there 👋
+## Idk
+![Static Badge](https://img.shields.io/badge/ArchLinux-text?style=flat-square&logo=ArchLinux&color=%23555555&link=https%3A%2F%2Farchlinux.org%2F)
 
 <!--
 **Blaadick/Blaadick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
